@@ -24,4 +24,4 @@ This Python script is designed to monitor a local network for new devices connec
    - database.json: JSON file used to store device information.
     
 ### License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/NikolaosGazis/Employee-Management?tab=MIT-1-ov-file).
