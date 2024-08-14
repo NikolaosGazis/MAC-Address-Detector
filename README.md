@@ -21,7 +21,7 @@ This Python script is designed to monitor a local network for new devices connec
 ## Files
 
    - mac_address_detector.py: Main Python script containing the MAC Address Detector functionality.
-   - database.json: JSON file used to store device information.
+   - database.json: JSON file created by the .py program, used to store device data.
     
 ### License
-This project is licensed under the [MIT License](https://github.com/NikolaosGazis/Employee-Management?tab=MIT-1-ov-file).
+This repository is licensed under the [MIT License](https://github.com/NikolaosGazis/Employee-Management?tab=MIT-1-ov-file).
